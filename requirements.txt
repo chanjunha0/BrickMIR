@@ -1,0 +1,11 @@
+catboost
+joblib
+matplotlib
+numpy
+pandas
+pywt
+scikit-learn
+scipy
+seaborn
+statsmodels
+tqdm
